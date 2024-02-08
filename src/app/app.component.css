@@ -1,0 +1,19 @@
+/* h1 {
+    color: red;
+    font-weight: 100;
+} */
+
+
+.nav-home {
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-project {
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.portfolio-title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
